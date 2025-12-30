@@ -1,2 +1,3 @@
 for - in range(5):
-    print('hello')
+    if i%2==0:
+        print('hello')
